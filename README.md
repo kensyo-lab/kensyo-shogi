@@ -1,10 +1,11 @@
 # kensyo-shogi 🎴
 
 ## Screenshot
-![title](<img width="632" height="663" alt="image" src="https://github.com/user-attachments/assets/50d80ceb-6440-4bd1-a4d9-fc0336ad8130" />
+![title](<img width="632" height="663" alt="kensyo-shogi-title" src="https://github.com/user-attachments/assets/cb399a5d-da48-448f-87f1-73f342c6a6a9" />
 )
 
-
+![title](<img width="912" height="822" alt="kensyo-shogi-play" src="https://github.com/user-attachments/assets/6a8c231b-1973-4efa-83d3-e60b047d5a19" />
+)
 
 **Python + tkinter で動く、本格将棋ゲームです。**
 
