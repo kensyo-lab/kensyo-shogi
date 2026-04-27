@@ -1,9 +1,8 @@
 # kensyo-shogi 🎴
 
 ## Screenshot
-![title](kensyo-shogi-title.png)
-
-![play](kensyo-shogi-play.png)
+![title](assets/kensyo-shogi-title.png)
+![play](assets/kensyo-shogi-play.png)
 
 **Python + tkinter で動く、本格将棋ゲームです。**
 
