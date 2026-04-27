@@ -1,7 +1,8 @@
 # kensyo-shogi 🎴
 
 ## Screenshot
-![title](docs/title.png)
+![title](<img width="632" height="663" alt="image" src="https://github.com/user-attachments/assets/50d80ceb-6440-4bd1-a4d9-fc0336ad8130" />
+)
 
 
 
