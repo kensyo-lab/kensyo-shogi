@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Kensyo
+Copyright (c) 2026 kensyo-lab (腱鞘炎)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+本ソフトウェアに含まれる以下の素材は、それぞれ個別のライセンスに従います。
+
+【駒・将棋盤画像】
+  提供元: Sunfish Shogi Images
+  URL: https://sunfish-shogi.github.io/shogi-images/
+
+【効果音】
+  素材名: 「【将棋】駒音1」
+  制作者: れがしろ 氏
+  提供元: ニコニコモンズ nc316163
+  URL: https://commons.nicovideo.jp/works/agreement/nc316163
+  利用条件: 利用許可範囲「どこでも」・権利表示不要・営利利用 個人/法人 OK
